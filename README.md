@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DilWera</h1>
 <h3 align="center">A passionate backend developer from SriLanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilwera&label=Profile%20views&color=0e75b6&style=flat" alt="dilwera" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilwera&label=Profile%20views&color=0e75b6&style=flat" alt="dilwera" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dilwera)](https://github.com/dilwera/github-profile-trophy)
 
@@ -29,9 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dilwera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dilwera" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilwera&show_icons=true&locale=en&layout=compact" alt="dilwera" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilwera&show_icons=true&locale=en" alt="dilwera" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilwera&" alt="dilwera" /></p>
