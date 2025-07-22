@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilwera&label=Profile%20views&color=0e75b6&style=flat" alt="dilwera" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dilwera)](https://github.com/dilwera/github-profile-trophy)
-
 - 🔭 I’m currently working on **Point Of Sale**
 
 - 🌱 I’m currently learning **.NET**
