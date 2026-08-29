@@ -63,9 +63,6 @@ As a software engineer with a focus on enterprise solutions, I specialize in arc
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/dilwera" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" />
-  </a>
   <a href="https://linkedin.com/in/dilwera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
