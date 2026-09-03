@@ -51,15 +51,6 @@ As a software engineer with a focus on enterprise solutions, I specialize in arc
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilharaDenuwanDiwakara&show_icons=true&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilharaDenuwanDiwakara&layout=compact&theme=nord&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
